@@ -12,7 +12,7 @@ Hosted on Streamlit Community Cloud.
 ## How to Run Locally
 1. Clone this repository:
    ```
-   git clone https://github.com/<your_username>/streamlit-loan-default.git
+   git clone https://github.com/Shruti-1205/streamlit-loan-default.git
    ```
 2. Install dependencies:
    ```
